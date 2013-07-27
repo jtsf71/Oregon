@@ -1,0 +1,12 @@
+body {
+  background-image:url(http://blog.tripbnb.com/wp-content/uploads/2013/03/Oregon-Travel-Ramona-Falls.jpg);
+}
+
+h1 {
+  font-size: 90px;
+	color: #FFFFFF;
+	margin: 1;
+	line-height: 2;
+	padding: 0;
+  text-align: center;
+}
